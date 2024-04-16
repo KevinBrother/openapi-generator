@@ -1,0 +1,4 @@
+generatorName: easy-js
+outputDir: samples/server/petstore/python-flask
+inputSpec: modules/openapi-generator/src/test/resources/2_0/python-flask/petstore.yaml
+templateDir: modules/openapi-generator/src/main/resources/easy-js

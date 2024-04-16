@@ -105,6 +105,7 @@ org.openapitools.codegen.languages.PythonClientCodegen
 org.openapitools.codegen.languages.PythonPydanticV1ClientCodegen
 org.openapitools.codegen.languages.PythonFastAPIServerCodegen
 org.openapitools.codegen.languages.PythonFlaskConnexionServerCodegen
+org.openapitools.codegen.languages.EasyJs
 org.openapitools.codegen.languages.PythonAiohttpConnexionServerCodegen
 org.openapitools.codegen.languages.PythonBluePlanetServerCodegen
 org.openapitools.codegen.languages.RClientCodegen
